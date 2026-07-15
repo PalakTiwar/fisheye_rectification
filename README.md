@@ -1,6 +1,6 @@
 # Evaluation of Distortion Correction Techniques for Fisheye Camera Images
 
-A comparative computer vision research project that evaluates two classical fisheye image distortion correction techniques—*Polynomial Calibration* and *Spherical Re-projection*—to analyze their effectiveness in geometric accuracy, perceptual quality, and field-of-view preservation. :contentReference[oaicite:0]{index=0}
+A comparative computer vision research project that evaluates two classical fisheye image distortion correction techniques—*Polynomial Calibration* and *Spherical Re-projection*—to analyze their effectiveness in geometric accuracy, perceptual quality, and field-of-view preservation. 
 
 ---
 
@@ -21,7 +21,7 @@ This research performs a detailed comparison between two distortion correction a
 - Polynomial Calibration Model
 - Spherical Re-projection Model
 
-The objective is to determine the trade-offs between geometric precision and field-of-view preservation for real-world computer vision applications. :contentReference[oaicite:1]{index=1}
+The objective is to determine the trade-offs between geometric precision and field-of-view preservation for real-world computer vision applications. 
 
 ---
 
