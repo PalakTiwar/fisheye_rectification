@@ -4,7 +4,7 @@ A comparative computer vision research project that evaluates two classical fish
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Fisheye cameras provide an ultra-wide field of view, making them ideal for applications such as:
 
@@ -25,7 +25,7 @@ The objective is to determine the trade-offs between geometric precision and fie
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Compare two classical fisheye distortion correction techniques.
 - Evaluate geometric accuracy after correction.
@@ -35,7 +35,7 @@ The objective is to determine the trade-offs between geometric precision and fie
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - OpenCV
@@ -45,7 +45,7 @@ The objective is to determine the trade-offs between geometric precision and fie
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 *York Fisheye Image Rectification Dataset*
 
@@ -64,7 +64,7 @@ Each sample consists of:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Polynomial Calibration Model
 
@@ -98,7 +98,7 @@ Pipeline:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 Performance was evaluated using:
 
@@ -113,7 +113,7 @@ These metrics evaluate both geometric accuracy and perceptual quality.
 
 ---
 
-## 📈 Results
+##  Results
 
 ### Polynomial Calibration
 
@@ -142,7 +142,7 @@ These metrics evaluate both geometric accuracy and perceptual quality.
 
 ---
 
-## 💡 Applications
+##  Applications
 
 - Autonomous Vehicles (ADAS)
 - Robotics
@@ -155,7 +155,7 @@ These metrics evaluate both geometric accuracy and perceptual quality.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 
 ├── dataset/
@@ -170,7 +170,7 @@ These metrics evaluate both geometric accuracy and perceptual quality.
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 Possible improvements include:
 
@@ -184,7 +184,7 @@ Possible improvements include:
 
 ---
 
-## 📄 Research Paper
+##  Research Paper
 
 *Evaluation of Distortion Correction Techniques for Fisheye Camera Images*
 
@@ -199,6 +199,6 @@ Manipal Institute of Technology, Manipal Academy of Higher Education
 
 ---
 
-## 📜 Citation
+##  Citation
 
 If you use this work in your research, please cite the associated paper.
